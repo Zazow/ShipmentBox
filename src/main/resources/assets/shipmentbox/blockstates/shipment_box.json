@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=west,open=false": {
+      "model": "shipmentbox:block/shipment_box"
+    },
+    "facing=north,open=false": {
+      "model": "shipmentbox:block/shipment_box"
+    },
+    "facing=east,open=true": {
+      "model": "shipmentbox:block/shipment_box"
+    },
+    "facing=east,open=false": {
+      "model": "shipmentbox:block/shipment_box"
+    },
+    "facing=south,open=false": {
+      "model": "shipmentbox:block/shipment_box"
+    },
+    "facing=south,open=true": {
+      "model": "shipmentbox:block/shipment_box"
+    },
+    "facing=west,open=true": {
+      "model": "shipmentbox:block/shipment_box"
+    },
+    "facing=north,open=true": {
+      "model": "shipmentbox:block/shipment_box"
+    }
+  }
+}
